@@ -20,6 +20,8 @@ import java.util.Scanner;
 public class home1 {
     public static void main(String[] args) {
         task1();
+        task2();
+        task3();
 
     }
 
